@@ -1,0 +1,86 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-image: url("../Images/R.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.bg-primary {
+    background-color: #412112 !important;
+    
+}
+
+.sub-pages {
+    background-color: #814224;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+
+.card-footer {
+    background: transparent;
+    border-top: 0px;
+  }
+  
+/* Caruosel*/
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declare heights because of positioning of img element */
+  .carousel-item {
+    height: 40rem;
+    max-width: 100vw;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+ 
+  .welcome-carousel-image1{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('../Images/Display/DisplayBild.jpg');
+  }
+
+  .welcome-carousel-image2{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('../images/Display/Display2.jpg');
+  }
+
+  .welcome-carousel-image3{
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
+    background-image:url('../Images/Display/Display3.jpg');
+  }
+
+/* Jumbotron */
+
+.jumbotron-CoffeeProducts {
+    background: url('../Images/DisplayBild.jpg') no-repeat fixed;
+  }
+  
+  .jumbotron-all-products {
+    background: url('../images/wallpaper2.jpg') no-repeat fixed;
+  }
+  
+  .jumbotron-machineC {
+    background: url('../images/CooksProfessional.jpg') no-repeat fixed;
+  }
+  
+  .jumbotron-machineDLH{
+    background: url('../images/DeLonghi.jpg') no-repeat fixed;
+  }
+  
+  .jumbotron-party {
+    background: url('../images/CoffeePartyProduct.jpg') no-repeat fixed;
+  }
+  
+  .jumbotron-darkCoffee {
+    background: url('../images/DarkCoffee.jpg') no-repeat fixed;
+  }
+  
+  .jumbotron {
+    box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.1);
+    height: 40vh;
+    background-size: cover;
+  }

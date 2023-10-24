@@ -1,0 +1,4 @@
+Image will not adjust properly when shrinking the size of the browser/using mobile device  (will need a smaller sized image of the original one)
+
+
+Todo: Images need to be smoother in the corners aswell as some of the UI to make it look more modern and flexible and not as stale.
