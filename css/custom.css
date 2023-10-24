@@ -1,16 +1,49 @@
 body {
     padding-top: 3rem;
     padding-bottom: 3rem;
-    background-image: url("../Images/R.jpg");
+    background-image: url("../Images/R2.jpg");
     background-size: cover;
     background-repeat: repeat;
 }
+ /* Box stuff */
+.box {
+  width: 200px;
+  padding: 20px;
+  text-align: center;
+  background-color: #975c03;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
 
 .bg-primary {
     background-color: #412112 !important;
     
 }
+/* Character boxes within the index file */
+.col-lg-4:first-child {
+  margin-right: 10;
+}
 
+.col-lg-4:last-child {
+  margin-left: 10;
+}
+
+.image-size {
+  width: 360px;
+  height: 189px; 
+}
+
+.image-size2 {
+  width: 180px;
+  height: 180px
+}
+
+.textColor-white {
+  color: rgb(255, 255, 255);
+
+}
 .sub-pages {
     background-color: #814224;
     padding-top: 3rem;
@@ -84,3 +117,12 @@ body {
     height: 40vh;
     background-size: cover;
   }
+
+  /* Footer */
+
+  footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Light text color */
+    padding: 10px;
+    text-align: center;
+}

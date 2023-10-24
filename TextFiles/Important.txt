@@ -2,3 +2,6 @@ Image will not adjust properly when shrinking the size of the browser/using mobi
 
 
 Todo: Images need to be smoother in the corners aswell as some of the UI to make it look more modern and flexible and not as stale.
+Adjust the borders to smoothen out the borders and also fix the text to pop out a lot better. 
+Apply some more scripts to make the site more functional.
+Enable cookies.
